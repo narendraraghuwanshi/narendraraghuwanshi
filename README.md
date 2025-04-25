@@ -6,7 +6,7 @@
 With **10+ years of experience** in **Laravel**, I specialize in building scalable web applications, SaaS platforms, and multi-tenant systems. I have expertise in **Vue.js, React, Inertia.js, Django, and Express.js**, and I'm passionate about developing innovative solutions in **FinTech, EdTech, and E-commerce**.  
 
 ## 🔥 What I Work On  
-- 🚀 **Laravel & Vue.js** for modern web apps  
+- 🚀 **Laravel + Vue.js** & **Express + React** for modern web apps  
 - 🏢 **Multi-Tenancy & SaaS** development  
 - 💳 **Payment Gateway Integrations** (PhonePe, Razorpay, Paytm, etc.)  
 - 📡 **Real-Time WebSockets & Chat Applications**  
@@ -18,7 +18,7 @@ With **10+ years of experience** in **Laravel**, I specialize in building scalab
 - 🔹 **Jewelry ERP System** – A full-fledged business management tool  
 
 ## 📫 Connect With Me  
-- 🔗 **GitHub:** [github.com/yourusername](#)  
+- 🔗 **GitHub:** [github.com/narendraraghuwanshi](#)  
 - 🔗 **LinkedIn:** [Narendra Raghuwanshi](https://www.linkedin.com/in/narendraraghuwanshi/)  
 - 🔗 **Website:** [zarenta.com](#)  
 
