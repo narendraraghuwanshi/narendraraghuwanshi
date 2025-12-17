@@ -20,6 +20,6 @@ With **10+ years of experience** in **Laravel**, I specialize in building scalab
 ## 📫 Connect With Me  
 - 🔗 **GitHub:** [github.com/narendraraghuwanshi](#)  
 - 🔗 **LinkedIn:** [Narendra Raghuwanshi](https://www.linkedin.com/in/narendraraghuwanshi/)  
-- 🔗 **Website:** [zarenta.com](#)  
+- 🔗 **Website:** [zarenta.com](https://www.zarenta.com)  
 
 🚀 Let's build something amazing together!
