@@ -1,52 +1,203 @@
 # 👋 Hi, I'm Narendra Singh Raghuwanshi!
 
-### 🚀 CEO @ Zarenta IT Solutions | AI/LLM & Laravel Engineer | Full-Stack Developer | SaaS & Multi-Tenant Architect
+### 🚀 Founder & CEO @ Zarenta IT Solutions | AI/LLM Engineer & Software Architect
+
+**Designing and building AI-powered, scalable SaaS and business platforms using modern AI, backend, frontend and cloud technologies.**
+
+**AI & LLM**  
+`LLMs` `RAG` `AI Agents` `Embeddings` `Vector Search` `Semantic Search` `AI Automation`
+
+**Backend & APIs**  
+`Laravel` `PHP` `Node.js` `Express.js` `Django` `REST APIs` `WebSockets`
+
+**Frontend & Mobile**  
+`React` `Vue.js` `Angular` `Inertia.js` `TypeScript` `Flutter`
+
+**Data & Infrastructure**  
+`PostgreSQL` `pgvector` `MySQL` `MongoDB` `Redis` `AWS` `Linux` `Nginx` `Docker`
+
+**Architecture**  
+`SaaS` `Multi-Tenancy` `Microservices` `API Architecture` `Real-Time Systems` `Payment Integrations`
 
 [![GitHub](https://img.shields.io/badge/GitHub-narendraraghuwanshi-181717?style=for-the-badge&logo=github)](https://github.com/narendraraghuwanshi)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Narendra%20Raghuwanshi-0A66C2?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/narendraraghuwanshi/)
 [![Website](https://img.shields.io/badge/Website-zarenta.com-0F172A?style=for-the-badge&logo=google-chrome)](https://www.zarenta.com/)
 
-> I design and build production-oriented web platforms, SaaS products, payment integrations, business automation systems, and multi-tenant applications — with a strong focus on Laravel and modern JavaScript ecosystems.
+> **Building intelligent software products with AI, LLMs, Laravel and modern full-stack technologies.**
+
+I architect and build **AI-powered applications, SaaS platforms, business automation systems, payment solutions, multi-tenant products and scalable web applications**.
+
+My engineering focus sits at the intersection of:
+
+**AI / LLMs → Backend Architecture → SaaS → Automation → Real-World Products**
 
 ---
 
-## 👨‍💻 About Me
+## 🤖 AI & LLM Engineering
 
-I am a **full-stack software developer and technology consultant** with **10+ years of professional experience**, primarily working with **Laravel/PHP**, modern JavaScript frameworks, APIs, SaaS architecture, and business applications.
+AI is now a major part of my engineering focus — from integrating LLMs into existing products to designing applications around AI from the ground up.
 
-My work spans multiple domains including:
+### 🧠 LLM Applications
 
-- 🏢 **SaaS & Multi-Tenant Platforms**
-- 🎓 **EdTech & School Management**
-- 💳 **FinTech & Payment Integrations**
-- 🏠 **Rental & Property Platforms**
-- 🍔 **Restaurant & POS Systems**
-- 📦 **Logistics & Parcel Delivery**
-- 🛒 **E-commerce & Business Applications**
-- 📍 **Maps, Geolocation & Real-Time Tracking**
-- 🤖 **AI / LLM-enabled applications and automation**
+- 🔗 LLM API integrations
+- 💬 AI chat applications
+- 📚 **RAG (Retrieval-Augmented Generation)**
+- 🗂️ Knowledge-base / document Q&A systems
+- 🧩 Embeddings & vector search
+- 🧠 Context-aware AI workflows
+- 🤖 AI agents and tool-based workflows
+- 🔄 AI-powered business automation
+- 📊 Structured AI outputs and application workflows
+- 🎙️ Voice / conversational AI experimentation
+- 🔍 Semantic search and intelligent discovery
 
-I also work across the complete product lifecycle — from architecture and database design to backend APIs, frontend applications, payment integrations, deployment, and server management.
+### 🏗️ AI Application Architecture
+
+I am interested in building practical AI systems rather than isolated chatbot demos.
+
+A typical architecture can look like:
+
+```text
+                  ┌──────────────────────┐
+                  │       User           │
+                  │ Web / Mobile / Voice │
+                  └──────────┬───────────┘
+                             │
+                             ▼
+                  ┌──────────────────────┐
+                  │   AI Application     │
+                  │  Laravel / Node.js   │
+                  └──────────┬───────────┘
+                             │
+              ┌──────────────┼──────────────┐
+              │              │              │
+              ▼              ▼              ▼
+          ┌────────┐    ┌──────────┐   ┌──────────┐
+          │  LLM   │    │   RAG    │   │  Tools   │
+          │ Models │    │ Pipeline │   │ & APIs   │
+          └────────┘    └─────┬────┘   └──────────┘
+                              │
+                              ▼
+                       ┌─────────────┐
+                       │ Vector DB   │
+                       │ PostgreSQL  │
+                       │ + pgvector  │
+                       └──────┬──────┘
+                              │
+                              ▼
+                       ┌─────────────┐
+                       │ Business DB │
+                       │ MySQL / SQL │
+                       └─────────────┘
+```
+
+### 🔥 AI Product Ideas I Work With
+
+- AI-powered search
+- AI customer support
+- Business knowledge assistants
+- Document intelligence
+- AI recommendation systems
+- AI-powered dashboards
+- AI agents connected to business APIs
+- Intelligent product discovery
+- AI automation for repetitive business processes
+- LLM interfaces for existing SaaS products
 
 ---
 
-## 🧰 Technology Stack
+# 👨‍💻 About Me
 
-### Backend
+I am a **full-stack software developer, AI/LLM engineer and technology entrepreneur** with **10+ years of experience**, primarily working with **Laravel/PHP**, modern JavaScript frameworks, APIs, databases and scalable application architecture.
+
+As CEO of **Zarenta IT Solutions**, I work on building and delivering software products across multiple domains.
+
+My experience includes:
+
+- 🤖 **AI / LLM applications**
+- 🧠 **RAG & intelligent search**
+- 🏢 **SaaS & Multi-Tenancy**
+- ⚙️ **Laravel / PHP backend systems**
+- ⚛️ **React / Vue / Angular**
+- 📱 **Flutter applications**
+- 💳 **FinTech & payment integrations**
+- 🎓 **EdTech & school management**
+- 🍔 **Restaurant & POS systems**
+- 📦 **Logistics & delivery platforms**
+- 🏠 **Rental/property applications**
+- 📍 **Maps, geolocation & tracking**
+- 📡 **Real-time applications**
+- ☁️ **Cloud, Linux & production deployments**
+
+---
+
+# 🧰 Technology Stack
+
+## 🤖 AI / LLM
+
+![AI](https://img.shields.io/badge/AI-LLM-412991?style=flat-square)
+![RAG](https://img.shields.io/badge/RAG-Vector%20Search-0F766E?style=flat-square)
+![Embeddings](https://img.shields.io/badge/Embeddings-Semantic%20Search-7C3AED?style=flat-square)
+![Agents](https://img.shields.io/badge/AI-Agents-E11D48?style=flat-square)
+
+**Focus areas**
+
+- LLM application development
+- Prompt engineering
+- RAG pipelines
+- Embeddings
+- Vector databases
+- Semantic search
+- AI agents
+- Tool calling / function calling
+- AI APIs
+- Structured outputs
+- Conversational interfaces
+- AI-powered automation
+
+---
+
+## 🏗️ Backend
+
 ![PHP](https://img.shields.io/badge/PHP-777BB4?style=flat-square&logo=php&logoColor=white)
 ![Laravel](https://img.shields.io/badge/Laravel-FF2D20?style=flat-square&logo=laravel&logoColor=white)
 ![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=node.js&logoColor=white)
 ![Express](https://img.shields.io/badge/Express.js-000000?style=flat-square&logo=express&logoColor=white)
 ![Django](https://img.shields.io/badge/Django-092E20?style=flat-square&logo=django&logoColor=white)
 
-### Frontend
-![Vue](https://img.shields.io/badge/Vue.js-4FC08D?style=flat-square&logo=vue.js&logoColor=white)
-![React](https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black)
-![Angular](https://img.shields.io/badge/Angular-DD0031?style=flat-square&logo=angular&logoColor=white)
-![Inertia](https://img.shields.io/badge/Inertia.js-9553E9?style=flat-square&logo=inertia&logoColor=white)
-![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
+- Laravel / PHP
+- REST APIs
+- API architecture
+- Authentication & authorization
+- Queue-based processing
+- Event-driven workflows
+- WebSockets
+- Third-party API integrations
+- Laravel package development
 
-### Databases & Infrastructure
+---
+
+## ⚛️ Frontend & Mobile
+
+![React](https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black)
+![Vue](https://img.shields.io/badge/Vue.js-4FC08D?style=flat-square&logo=vue.js&logoColor=white)
+![Angular](https://img.shields.io/badge/Angular-DD0031?style=flat-square&logo=angular&logoColor=white)
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
+![Flutter](https://img.shields.io/badge/Flutter-02569B?style=flat-square&logo=flutter&logoColor=white)
+
+- React
+- Vue.js
+- Angular
+- Inertia.js
+- TypeScript
+- Flutter
+- Responsive web applications
+- Real-time interfaces
+
+---
+
+## 🗄️ Databases & Infrastructure
+
 ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white)
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white)
 ![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white)
@@ -54,281 +205,379 @@ I also work across the complete product lifecycle — from architecture and data
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=linux&logoColor=black)
 ![AWS](https://img.shields.io/badge/AWS-232F3E?style=flat-square&logo=amazonaws&logoColor=white)
 
-### Integrations & Architecture
-- 💳 PhonePe, Razorpay, Paytm and other payment gateways
-- 🔐 Authentication, authorization and role-based access control
-- 🏢 Multi-tenancy and SaaS architecture
-- 🔄 REST APIs and third-party API integrations
-- 📡 WebSockets / real-time application features
-- 🗺️ Maps, geocoding, routing and location services
-- 🚀 Production deployment, Nginx and server management
-- 🤖 AI, LLM and automation workflows
+- MySQL
+- PostgreSQL
+- MongoDB
+- Vector databases / pgvector
+- Redis
+- Linux
+- Nginx
+- aaPanel
+- AWS / cloud infrastructure
+- Production server management
+
+---
+
+# 🧠 How I Build AI-Powered Products
+
+My approach is to combine **LLMs with deterministic software systems**, rather than relying on an LLM for everything.
+
+```text
+                 AI-Powered Product
+                         │
+        ┌────────────────┼────────────────┐
+        │                │                │
+        ▼                ▼                ▼
+      LLM              RAG             Tools
+        │                │                │
+        │          ┌─────┴─────┐          │
+        │          │ Embeddings│          │
+        │          │ Vector DB │          │
+        │          └───────────┘          │
+        │                │                │
+        └────────────────┼────────────────┘
+                         ▼
+                  Business Logic
+                         │
+                         ▼
+                    Application
+                         │
+                         ▼
+                  Real-World Action
+```
+
+The goal is to make AI **useful, reliable and connected to real business workflows**.
 
 ---
 
 # 🚀 Projects & Repository Portfolio
 
-This section documents the repositories visible across my personal, company, and project GitHub organizations. Repositories are grouped by the product or business domain they belong to.
+My repositories represent different product ecosystems built around **SaaS, AI-ready backend architecture, business applications, payments, education, logistics, rental platforms and real-time systems**.
 
 ---
 
-## 💼 BidEasy — Bidding / Marketplace Platform
+# 💼 BidEasy — Bidding / Marketplace Platform
 
-**BidEasy** is represented by a collection of frontend, backend, vendor, admin, Laravel and handoff repositories. The repository structure reflects a modular product architecture with separate applications for customers, vendors, administration and backend services.
+BidEasy is represented by a collection of frontend, backend, vendor, admin, Laravel and handoff repositories.
+
+The architecture separates customer-facing, vendor and administrative workflows.
 
 | Repository | Purpose |
 |---|---|
-| [`epicmind01/bideasy-ui`](https://github.com/epicmind01/bideasy-ui) | BidEasy customer-facing UI / frontend application |
-| [`epicmind01/bidezy_backend`](https://github.com/epicmind01/bidezy_backend) | BidEasy backend services and API layer |
-| [`epicmind01/bidezy_vendor`](https://github.com/epicmind01/bidezy_vendor) | Vendor-side application for BidEasy |
-| [`epicmind01/superbackend`](https://github.com/epicmind01/superbackend) | Central / administrative backend services |
+| [`epicmind01/bideasy-ui`](https://github.com/epicmind01/bideasy-ui) | BidEasy customer-facing UI / frontend |
+| [`epicmind01/bidezy_backend`](https://github.com/epicmind01/bidezy_backend) | BidEasy backend / API services |
+| [`epicmind01/bidezy_vendor`](https://github.com/epicmind01/bidezy_vendor) | Vendor-side application |
+| [`epicmind01/superbackend`](https://github.com/epicmind01/superbackend) | Central / administrative backend |
 | [`epicmind01/admin`](https://github.com/epicmind01/admin) | Administration interface |
-| [`epicmind01/bidezyLaravel`](https://github.com/epicmind01/bidezyLaravel) | Laravel-based BidEasy application/backend |
-| [`epicmind01/front`](https://github.com/epicmind01/front) | BidEasy frontend application |
+| [`epicmind01/bidezyLaravel`](https://github.com/epicmind01/bidezyLaravel) | Laravel-based BidEasy implementation |
+| [`epicmind01/front`](https://github.com/epicmind01/front) | BidEasy frontend |
 | [`mirinae0603/bideasy-handoff-ui`](https://github.com/mirinae0603/bideasy-handoff-ui) | UI handoff / frontend implementation |
-| [`Tusharthakour0977/BidEasy`](https://github.com/Tusharthakour0977/BidEasy) | BidEasy application frontend/project |
-| [`Tusharthakour0977/BidEasy_Backend`](https://github.com/Tusharthakour0977/BidEasy_Backend) | BidEasy backend implementation |
-| [`sony196/Bideasy_Website`](https://github.com/sony196/Bideasy_Website) | BidEasy website / public-facing web experience |
+| [`Tusharthakour0977/BidEasy`](https://github.com/Tusharthakour0977/BidEasy) | BidEasy frontend/project |
+| [`Tusharthakour0977/BidEasy_Backend`](https://github.com/Tusharthakour0977/BidEasy_Backend) | BidEasy backend |
+| [`sony196/Bideasy_Website`](https://github.com/sony196/Bideasy_Website) | BidEasy public website |
 
-### Architecture focus
-- Modular frontend/backend separation
-- Vendor and admin workflows
-- Laravel/PHP backend development
-- API-driven application architecture
-- Product-oriented UI development
+### Architecture
+
+- Customer application
+- Vendor application
+- Admin application
+- Backend APIs
+- Laravel services
+- Modular product architecture
 
 ---
 
-## 🏠 NestGuru — Rental & Property Platform
+# 🏠 NestGuru — Rental & Property Platform
 
-NestGuru repositories represent a rental/property-management product with separate backend, admin and rental-oriented application components.
+NestGuru is a rental/property-oriented platform with separate backend, administration and rental application repositories.
 
 | Repository | Purpose |
 |---|---|
-| [`Creatamax/NestGure-Project-Backend`](https://github.com/Creatamax/NestGure-Project-Backend) | Main NestGuru backend |
-| [`Creatamax/Nestguru_Admin`](https://github.com/Creatamax/Nestguru_Admin) | NestGuru administration panel |
-| [`Creatamax/NestGuru-Rental-Project`](https://github.com/Creatamax/NestGuru-Rental-Project) | Rental/property-facing application |
+| [`Creatamax/NestGure-Project-Backend`](https://github.com/Creatamax/NestGure-Project-Backend) | NestGuru backend |
+| [`Creatamax/Nestguru_Admin`](https://github.com/Creatamax/Nestguru_Admin) | NestGuru administration |
+| [`Creatamax/NestGuru-Rental-Project`](https://github.com/Creatamax/NestGuru-Rental-Project) | Rental/property application |
 
 ### Architecture focus
-- Property/rental workflows
-- Admin management
-- Backend API/services
-- Separation of customer and administrative applications
+
+- Rental workflows
+- Property management
+- Backend APIs
+- Administrative operations
+- Customer-facing application architecture
 
 ---
 
-## 🎓 Marks / MyMarks — School Management & EdTech
+# 🎓 Marks / MyMarks — EdTech & School Management
 
-The **Marks / MyMarks** ecosystem is one of the largest repository groups in my portfolio. It includes backend services, teacher applications, React, Angular, Flutter and alternative frontend implementations.
+The Marks/MyMarks ecosystem contains backend, teacher, React, Angular and Flutter applications.
 
-The product direction is centered around **school management SaaS, academic data, teachers, students, marks and educational workflows**.
+The product direction focuses on **school management, academic records, marks, teachers and educational workflows**.
 
 | Repository | Purpose |
 |---|---|
 | [`narendraraghuwanshi/marks`](https://github.com/narendraraghuwanshi/marks) | Core Marks application |
-| [`narendraraghuwanshi/markspuls`](https://github.com/narendraraghuwanshi/markspuls) | Marks / academic application variant |
+| [`narendraraghuwanshi/markspuls`](https://github.com/narendraraghuwanshi/markspuls) | Marks / academic application |
 | [`narendraraghuwanshi/flutter_marks_teacher`](https://github.com/narendraraghuwanshi/flutter_marks_teacher) | Flutter teacher application |
 | [`Zarenta-IT-Solutions/mymarks_server`](https://github.com/Zarenta-IT-Solutions/mymarks_server) | MyMarks backend/server |
-| [`Zarenta-IT-Solutions/marks`](https://github.com/Zarenta-IT-Solutions/marks) | Main Marks product repository |
+| [`Zarenta-IT-Solutions/marks`](https://github.com/Zarenta-IT-Solutions/marks) | Marks product |
 | [`Zarenta-IT-Solutions/my-marks`](https://github.com/Zarenta-IT-Solutions/my-marks) | MyMarks application |
 | [`Zarenta-IT-Solutions/marks-angular`](https://github.com/Zarenta-IT-Solutions/marks-angular) | Angular implementation |
 | [`Zarenta-IT-Solutions/react-mark`](https://github.com/Zarenta-IT-Solutions/react-mark) | React implementation |
-| [`Zarenta-IT-Solutions/marks-teacher`](https://github.com/Zarenta-IT-Solutions/marks-teacher) | Teacher-facing application |
+| [`Zarenta-IT-Solutions/marks-teacher`](https://github.com/Zarenta-IT-Solutions/marks-teacher) | Teacher application |
 | [`Zarenta-IT-Solutions/marks-react`](https://github.com/Zarenta-IT-Solutions/marks-react) | React-based Marks application |
-| [`Zarenta-IT-Solutions/marks-teacher`](https://github.com/Zarenta-IT-Solutions/marks-teacher) | Teacher-focused mobile/web client |
 | [`sharmaravi7271/mymark`](https://github.com/sharmaravi7271/mymark) | MyMark ecosystem repository |
 
-### Product capabilities
+### Product areas
 
-The Marks/MyMarks ecosystem is intended for workflows such as:
-
+- 🏫 School administration
 - 🧑‍🎓 Student management
 - 👨‍🏫 Teacher management
-- 🏫 School administration
-- 📝 Marks and academic records
-- 📊 Academic reporting
+- 📝 Marks / academic records
+- 📊 Reporting
 - 📱 Teacher/mobile applications
 - 🔐 Role-based access
-- 🌐 Multiple frontend implementations
-- ☁️ SaaS-oriented backend architecture
+- ☁️ SaaS-oriented architecture
+
+### AI opportunity
+
+The Marks platform is also a natural foundation for AI-powered features such as:
+
+- AI academic assistants
+- Natural-language report generation
+- Student performance insights
+- Intelligent search across academic data
+- Teacher productivity assistants
+- Parent/student conversational interfaces
 
 ---
 
-## 🍔 Cheezy — Restaurant / POS Ecosystem
+# 🍔 Cheezy — Restaurant & POS Ecosystem
 
-The Cheezy repositories represent a restaurant technology ecosystem with POS, administration and Laravel/backend components.
+The Cheezy repositories represent restaurant software, POS and administrative applications.
 
 | Repository | Purpose |
 |---|---|
-| [`narendraraghuwanshi/cheez y`](https://github.com/narendraraghuwanshi/cheez%20y) | Cheezy product/application |
-| [`narendraraghuwanshi/laravel_cheez y`](https://github.com/narendraraghuwanshi/laravel_cheez%20y) | Laravel-based Cheezy application |
-| [`narendraraghuwanshi/cheez y_laravel`](https://github.com/narendraraghuwanshi/cheez%20y_laravel) | Laravel implementation |
-| [`Zarenta-IT-Solutions/cheez y_pos`](https://github.com/Zarenta-IT-Solutions/cheez%20y_pos) | Restaurant POS application |
-| [`Zarenta-IT-Solutions/cheez y_admin`](https://github.com/Zarenta-IT-Solutions/cheez%20y_admin) | Restaurant administration panel |
+| [`narendraraghuwanshi/cheesy`](https://github.com/narendraraghuwanshi/cheesy) | Cheezy application |
+| [`narendraraghuwanshi/laravel_cheesy`](https://github.com/narendraraghuwanshi/laravel_cheesy) | Laravel Cheezy implementation |
+| [`narendraraghuwanshi/cheesy_laravel`](https://github.com/narendraraghuwanshi/cheesy_laravel) | Laravel implementation |
+| [`Zarenta-IT-Solutions/cheesy_pos`](https://github.com/Zarenta-IT-Solutions/cheesy_pos) | Restaurant POS |
+| [`Zarenta-IT-Solutions/cheesy_admin`](https://github.com/Zarenta-IT-Solutions/cheesy_admin) | Restaurant administration |
 
-> **Note:** GitHub repository names containing spaces are preserved here exactly as shown in the supplied repository list. If these are actually different spellings such as `cheezy`, `cheez y`, or another slug, update the links to the exact GitHub slug.
+### Product areas
 
-### Architecture focus
 - Restaurant POS
-- Order management
-- Admin operations
+- Orders
+- Products
+- Administration
+- Business workflows
 - Laravel backend
-- Business workflow automation
+
+### AI opportunity
+
+Restaurant platforms can be extended with:
+
+- AI menu assistants
+- Intelligent product recommendations
+- Sales analytics
+- Demand forecasting
+- Natural-language reporting
+- Customer support automation
 
 ---
 
-## 📦 ParcelPanda — Logistics & Delivery
+# 📦 ParcelPanda — Logistics & Delivery
 
-ParcelPanda is represented by separate backend, restaurant and POS repositories, indicating a modular delivery/logistics platform.
+ParcelPanda is structured as a modular logistics ecosystem with backend, restaurant and POS applications.
 
 | Repository | Purpose |
 |---|---|
-| [`parcelpanda/backend`](https://github.com/parcelpanda/backend) | Core delivery/logistics backend |
+| [`parcelpanda/backend`](https://github.com/parcelpanda/backend) | Core logistics backend |
 | [`parcelpanda/restaurant`](https://github.com/parcelpanda/restaurant) | Restaurant-side application |
 | [`parcelpanda/pos`](https://github.com/parcelpanda/pos) | POS / order-processing application |
 
 ### Architecture focus
-- Parcel/order management
+
+- Order management
+- Delivery operations
 - Restaurant integration
 - POS workflows
-- Delivery operations
-- API-driven backend services
+- Backend APIs
+- Logistics automation
+
+### AI opportunity
+
+- Delivery route optimization
+- ETA prediction
+- Intelligent dispatching
+- Customer support agents
+- Natural-language order tracking
+- Operational analytics
 
 ---
 
-## 💳 Payment & FinTech
+# 💳 FinTech — PhonePe Laravel Integration
 
-### PhonePe Laravel Integration
+[`narendraraghuwanshi/phonepe`](https://github.com/narendraraghuwanshi/phonepe) is a Laravel package for PhonePe payment gateway integration.
 
-[`narendraraghuwanshi/phonepe`](https://github.com/narendraraghuwanshi/phonepe) is a Laravel package for integrating the **PhonePe payment gateway**.
-
-It supports:
+### Focus areas
 
 - Payment initiation
-- Transaction status checks
-- Secure callback handling
-- Laravel configuration publishing
-- Sandbox/production environment configuration
+- Transaction status
+- Callback handling
+- Environment configuration
+- Laravel package architecture
 - Composer-based installation
-
-Package installation:
 
 ```bash
 composer require zarenta/phonepe
 ```
 
-This repository demonstrates practical experience with **payment gateway SDK/package development, callbacks, transaction state handling and Laravel package architecture**.
+This project represents experience with **payment infrastructure, API integrations, transaction lifecycle management and reusable Laravel package development**.
 
 ---
 
-## 📍 React Geolocation & Real-Time Tracking
+# 📍 React Geolocation & Live Tracking
 
 [`narendraraghuwanshi/react-geolocation`](https://github.com/narendraraghuwanshi/react-geolocation) is a React + TypeScript project focused on live bike tracking and route visualization.
 
 ### Highlights
 
 - 📍 Start/end location search
-- 🗺️ Interactive map
+- 🗺️ Interactive maps
 - 🚴 Animated live bike marker
 - 🧭 Route generation
 - 🔎 Location autocomplete
 - 📡 GraphHopper routing
 - 🌍 Nominatim geocoding
-- 🧩 Leaflet / React-Leaflet integration
+- 🧩 Leaflet / React-Leaflet
 
-This project demonstrates experience with **geospatial applications, mapping APIs, routing services and real-time UI animation**.
+This demonstrates experience with **geospatial applications, routing APIs and real-time visual interfaces**.
 
 ---
 
-## 🛠️ Other / Experimental Projects
+# 🛠️ Other Projects
 
 | Repository | Area |
 |---|---|
-| [`narendraraghuwanshi/narendraraghuwanshi`](https://github.com/narendraraghuwanshi/narendraraghuwanshi) | GitHub profile / portfolio repository |
+| [`narendraraghuwanshi/narendraraghuwanshi`](https://github.com/narendraraghuwanshi/narendraraghuwanshi) | GitHub profile / portfolio |
 | [`narendraraghuwanshi/swtech`](https://github.com/narendraraghuwanshi/swtech) | Software / technology project |
-| [`Zarenta-IT-Solutions/marks-teacher`](https://github.com/Zarenta-IT-Solutions/marks-teacher) | Teacher application |
-| [`Zarenta-IT-Solutions/.github`](https://github.com/Zarenta-IT-Solutions/.github) | Organization-level GitHub configuration and profile |
+| [`Zarenta-IT-Solutions/.github`](https://github.com/Zarenta-IT-Solutions/.github) | Zarenta GitHub organization configuration |
 
 ---
 
-# 🧩 What My Repository Portfolio Shows
+# 🏢 SaaS & Multi-Tenancy
 
-Rather than focusing on a single framework, my repositories cover complete product ecosystems:
+A major part of my engineering work is building systems where one application can serve multiple organizations, businesses or tenants.
+
+### Core concepts
+
+- Tenant isolation
+- Tenant-aware data models
+- Role-based permissions
+- Central administration
+- Tenant-specific configurations
+- Shared infrastructure
+- API authentication
+- Subscription/business workflows
+- Scalable database architecture
+
+### AI + SaaS
+
+I am particularly interested in **AI-native SaaS**, where AI becomes part of the core product rather than an isolated feature.
 
 ```text
-                    ┌─────────────────────────┐
-                    │      Product / SaaS     │
-                    └────────────┬────────────┘
-                                 │
-             ┌───────────────────┼───────────────────┐
-             │                   │                   │
-        Frontend              Backend             Admin
-             │                   │                   │
-      React / Vue /        Laravel / Node /      Web / Mobile
-      Angular / Flutter        APIs / DB          Dashboards
-             │                   │                   │
-             └───────────────────┼───────────────────┘
-                                 │
-                    ┌────────────▼────────────┐
-                    │ Integrations & Services │
-                    ├─────────────────────────┤
-                    │ Payments                │
-                    │ Maps / Geolocation       │
-                    │ WebSockets              │
-                    │ Authentication          │
-                    │ Multi-Tenancy            │
-                    │ Cloud / Deployment       │
-                    └─────────────────────────┘
+                    Multi-Tenant SaaS
+                           │
+              ┌────────────┴────────────┐
+              │                         │
+          Tenant A                  Tenant B
+              │                         │
+              └────────────┬────────────┘
+                           │
+                    Shared AI Layer
+                           │
+             ┌─────────────┼─────────────┐
+             │             │             │
+            LLM           RAG          Agents
+             │             │             │
+             └─────────────┼─────────────┘
+                           │
+                     Business APIs
+                           │
+                     SaaS Database
 ```
 
 ---
 
-# 🔥 Core Engineering Expertise
+# 🧠 AI + Existing Business Software
 
-### 🏗️ Application Architecture
-- Monolithic and modular Laravel applications
-- RESTful APIs
-- Service-oriented application design
-- Multi-tenant SaaS architecture
-- Role-based access control
-- Admin/customer/vendor application separation
+One of the areas I find most valuable is adding intelligence to existing business systems.
 
-### 💳 FinTech
-- Payment gateway integrations
-- PhonePe
-- Razorpay
-- Paytm
-- Transaction lifecycle management
-- Payment callbacks and verification
+Instead of replacing an established application, AI can sit on top of the existing data and workflows.
 
-### 🏢 SaaS & Multi-Tenancy
-- Tenant isolation
-- Tenant-aware applications
-- Shared and tenant-specific resources
-- Subscription/business workflows
-- Central administration
+### Example
 
-### ⚡ Real-Time Systems
-- WebSockets
-- Live status updates
-- Tracking systems
-- Real-time UI interactions
+```text
+Existing SaaS
+     │
+     ├── Customers
+     ├── Orders
+     ├── Products
+     ├── Reports
+     └── Documents
+           │
+           ▼
+       AI Layer
+           │
+     ┌─────┼─────┐
+     ▼     ▼     ▼
+    RAG   LLM   Tools
+     │     │     │
+     └─────┼─────┘
+           ▼
+     AI Assistant
+           │
+           ▼
+ "Show me this month's sales."
+ "Which products are performing poorly?"
+ "Create a report."
+ "Find similar customers."
+ "What should I do next?"
+```
 
-### 🗺️ Location Technology
-- Geolocation
-- Geocoding
-- Route calculation
-- Interactive maps
-- Live vehicle/bike tracking
+This approach allows traditional SaaS applications to evolve into **AI-assisted business platforms**.
 
-### 🚀 DevOps & Deployment
-- Linux servers
-- Nginx
-- aaPanel
-- Database administration
-- Production deployments
-- API/server configuration
-- Cloud infrastructure
+---
+
+# 💡 Areas I Want to Build
+
+My current engineering interests are increasingly focused on:
+
+### 🤖 AI Products
+- LLM-powered SaaS
+- AI agents
+- RAG systems
+- AI assistants
+- AI search
+- Document intelligence
+- Voice interfaces
+- Business automation
+
+### 🏢 AI + SaaS
+- AI-native multi-tenant applications
+- Tenant-specific knowledge bases
+- Organization-level AI assistants
+- AI-powered dashboards
+- Intelligent workflow automation
+
+### 🔗 AI Integrations
+- LLM APIs
+- Business APIs
+- Payment systems
+- Maps and location services
+- CRM/ERP systems
+- Databases
+- Internal company knowledge
 
 ---
 
@@ -336,6 +585,8 @@ Rather than focusing on a single framework, my repositories cover complete produ
 
 | Domain | Representative Projects |
 |---|---|
+| 🤖 AI / LLM | RAG, LLM integrations, AI automation |
+| 🏢 SaaS | MyMarks, NestGuru, BidEasy |
 | 💳 FinTech | PhonePe Laravel Gateway |
 | 🎓 EdTech | Marks / MyMarks |
 | 🏠 Rental | NestGuru |
@@ -343,28 +594,70 @@ Rather than focusing on a single framework, my repositories cover complete produ
 | 📦 Logistics | ParcelPanda |
 | 🛒 Marketplace | BidEasy |
 | 📍 Geolocation | React Geolocation |
-| 🏢 SaaS | MyMarks, NestGuru, BidEasy |
 | 📱 Mobile | Flutter Marks Teacher |
-| 🌐 Web Applications | React, Vue, Angular, Laravel |
+| 🌐 Full Stack | React, Vue, Angular, Laravel |
+| ☁️ Infrastructure | Linux, Nginx, AWS |
 
 ---
 
-# 🏢 About Zarenta IT Solutions
+# 🏗️ Engineering Philosophy
 
-**Zarenta IT Solutions** is a software development company focused on building practical technology products and customized business solutions.
+### 1. Build for real business problems
 
-Our areas of work include:
+I prefer software that solves measurable business problems rather than technology for technology's sake.
 
-- Web application development
-- SaaS platforms
-- Mobile applications
-- E-commerce systems
-- FinTech integrations
-- School management software
-- Restaurant/POS systems
-- Rental/property platforms
-- Cloud and server solutions
-- Custom software consulting
+### 2. AI should be useful
+
+LLMs are powerful, but production systems need:
+
+- Deterministic business logic
+- Validation
+- Authentication
+- Permissions
+- Reliable APIs
+- Observability
+- Data security
+- Human control where required
+
+### 3. Architecture matters
+
+A good product should be:
+
+**Maintainable → Scalable → Secure → Observable → Extensible**
+
+### 4. AI + Software Engineering
+
+The future is not simply:
+
+> **"AI replaces software."**
+
+It is:
+
+> **"AI becomes a new layer of software."**
+
+That is the direction I am exploring through my work.
+
+---
+
+# 🏢 Zarenta IT Solutions
+
+**Zarenta IT Solutions** is a software development company focused on building technology products and customized business solutions.
+
+### Our areas of work
+
+- 🤖 AI / LLM applications
+- 🏢 SaaS platforms
+- 🌐 Web application development
+- 📱 Mobile applications
+- 💳 FinTech integrations
+- 🎓 School management software
+- 🍔 Restaurant/POS systems
+- 🏠 Rental/property platforms
+- 📦 Logistics solutions
+- 🛒 E-commerce and marketplaces
+- ☁️ Cloud/server solutions
+- ⚙️ Business automation
+- 🧠 AI integration into existing software
 
 🌐 **Website:** [zarenta.com](https://www.zarenta.com/)
 
@@ -378,8 +671,14 @@ Our areas of work include:
 
 ---
 
-## 🚀 Let's Build Something Amazing
+# 🚀 Let's Build the Next Generation of Software
 
-If you're working on a **SaaS product, Laravel application, payment integration, multi-tenant platform, EdTech system, POS, marketplace, logistics platform or custom business software**, I'd be happy to collaborate.
+I'm interested in building products where **AI meets real-world business systems**.
 
-**Build. Scale. Automate. 🚀**
+If you're working on:
+
+**AI / LLM • RAG • AI Agents • SaaS • Laravel • FinTech • EdTech • POS • Logistics • Multi-Tenancy • Business Automation**
+
+let's build something useful, scalable and intelligent.
+
+### **Build. Scale. Automate. Add Intelligence. 🤖🚀**
